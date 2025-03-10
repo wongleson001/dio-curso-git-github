@@ -92,5 +92,16 @@ Introduzir ao versionamento de código com Git e GitHub.
 - [GITHUB BLOG. Token authentication requirements for Git operations](https://github.blog/2020-12-15-token-authentication-requirements-for-git-operations/)
 - [MICROSOFT. Microsoft to acquire GitHub for $7.5 billion](https:/news.microsoft.com/2018/06/04/microsoft-to-acquire-github-for-7-5-billion/)
 
+
+GIT_AUTHOR_NAME<br>
+GIT_AUTHOR_EMAIL <br>
+GIT_AUTHOR_DATE <br>
+GIT_COMMITTER_NAME <br>
+GIT_COMMITTER_EMAIL <br>
+GIT_COMMITTER_DATE <br>
+
+
 ##
 <div align="center">Feito com 💙 por <a href="https://github.com/elidianaandrade">Eli</a>.</div>
+
+
